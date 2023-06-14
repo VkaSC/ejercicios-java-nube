@@ -12,7 +12,7 @@ package basicosprofe;
  *
  *Se pide:
  *
- *1) Adivinar la funcionalidad del método adivinaQueHace
+ *1) Adivinar la funcionalidad del método adivinaQueHace: El método comprueba si la cadena es un palíndromo
  *2) Una vez descubierto, aplicar un nombre apropiado al método y a la clase
  *3) Idear un método equivalente, pero distinto. Es decir, crear un método 
  *que haga lo mismo que adivinaQueHace, pero de otra manera.
