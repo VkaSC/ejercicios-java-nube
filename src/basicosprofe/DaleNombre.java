@@ -21,7 +21,7 @@ package basicosprofe;
  */
 public class DaleNombre {
 	
-	private static boolean adivinaQueHace (String cad)
+	private static boolean esPalindromo (String cad)
 	{
 		boolean bd = true;
 		
@@ -40,7 +40,7 @@ public class DaleNombre {
 	}
 	
 	public static void main(String[] args) {
-		if (adivinaQueHace("poop"))
+		if (esPalindromo("poop"))
 		{
 			System.out.println("VERDADERO");
 		} else 
