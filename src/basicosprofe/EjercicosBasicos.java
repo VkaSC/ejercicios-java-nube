@@ -31,5 +31,5 @@ package basicosprofe;
  * //pensar el los pasos en esapñol en psuedocódigo
  */
 public class EjercicosBasicos {
-
+	//3) HACER UN MÉTODO QUE DADO UN NÚMERO, DIGA SI ES PAR O NO esPar
 }
